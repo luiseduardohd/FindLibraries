@@ -1,0 +1,5 @@
+/Users/luiseduardohernandez/Projects/FindLibraries/FindLibraries/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/luiseduardohernandez/Projects/FindLibraries/FindLibraries/bin/Debug/FindLibraries.exe.mdb
+/Users/luiseduardohernandez/Projects/FindLibraries/FindLibraries/bin/Debug/FindLibraries.exe
+/Users/luiseduardohernandez/Projects/FindLibraries/FindLibraries/obj/x86/Debug/FindLibraries.exe
+/Users/luiseduardohernandez/Projects/FindLibraries/FindLibraries/obj/x86/Debug/FindLibraries.exe.mdb
